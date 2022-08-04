@@ -1,6 +1,6 @@
 package Aulas;
 
-public class controleFluxo2 {
+public class Cotrole_Fluxo_If_Else {
     public static void main(String[] args) {
         //idade < 15 categoria infantil
         //idade >= 15 '' idade < 18 categoria juvenil

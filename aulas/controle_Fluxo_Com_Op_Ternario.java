@@ -1,6 +1,6 @@
 package Aulas;
 
-public class controleFluxoComOpTernario {
+public class controle_Fluxo_Com_Op_Ternario {
     public static void main(String[] args) {
         int idade = 17;
         String status;

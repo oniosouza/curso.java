@@ -1,6 +1,6 @@
 package aulas;
 
-public class Exercicio3ControleFluxo {
+public class Exercicio3ControleFluxoIf_Else_If {
     public static void main(String[] args) {
 
         /*
