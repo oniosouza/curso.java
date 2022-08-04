@@ -1,6 +1,6 @@
 package Aulas;
 
-public class ImprimindoVariaveis {
+public class Imprimindo_Variaveis {
     public static void main(String[] args) {
 
         int idade = 10;
