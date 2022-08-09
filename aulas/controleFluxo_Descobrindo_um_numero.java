@@ -2,8 +2,8 @@ package aulas;
 
 public class controleFluxo_Descobrindo_um_numero {
     public static void main(String[] args) {
-        /*Dado o valor de uma carro descubra em quantas vezes
-        ele pode ser parcelado, porem: as parcelas nao podem ser mnores
+        /*Dado o valor de um carro descubra em quantas vezes
+        ele pode ser parcelado, porem: as parcelas nao podem ser menores
         que mil reias.
          */
         double valorTotal = 30000;
