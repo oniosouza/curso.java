@@ -1,4 +1,4 @@
-package Aulas;
+package br.com.curso.introducao.controleFluxo;
 
 public class controle_Fluxo_Com_Op_Ternario {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package aulas;
+package br.com.curso.introducao.arrays;
 
 public class arraysContendo_for {
     public static void main(String[] args) {

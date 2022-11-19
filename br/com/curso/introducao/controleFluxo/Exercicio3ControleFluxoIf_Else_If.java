@@ -1,4 +1,4 @@
-package aulas;
+package br.com.curso.introducao.controleFluxo;
 
 public class Exercicio3ControleFluxoIf_Else_If {
     public static void main(String[] args) {

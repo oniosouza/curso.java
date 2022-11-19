@@ -1,4 +1,4 @@
-package aulas;
+package br.com.curso.introducao.exercicios;
 
 public class Exercico_switch {
     public static void main(String[] args) {

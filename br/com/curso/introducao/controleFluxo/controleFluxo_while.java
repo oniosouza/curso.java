@@ -1,4 +1,4 @@
-package aulas;
+package br.com.curso.introducao.controleFluxo;
 
 public class controleFluxo_while {
     public static void main(String[] args) {

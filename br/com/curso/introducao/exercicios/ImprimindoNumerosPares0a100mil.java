@@ -1,4 +1,4 @@
-package aulas;
+package br.com.curso.introducao.exercicios;
 
 public class ImprimindoNumerosPares0a100mil {
     public static void main(String[] args) {

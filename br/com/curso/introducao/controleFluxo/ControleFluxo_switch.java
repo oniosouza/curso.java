@@ -1,4 +1,4 @@
-package aulas;
+package br.com.curso.introducao.controleFluxo;
 
 public class ControleFluxo_switch {
     public static void main(String[] args) {

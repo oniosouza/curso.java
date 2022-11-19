@@ -1,4 +1,4 @@
-package Aulas;
+package br.com.curso.introducao.exercicios;
 
 public class Imprimindo_Variaveis {
     public static void main(String[] args) {

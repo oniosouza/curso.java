@@ -1,4 +1,4 @@
-package aulas;
+package br.com.curso.introducao.controleFluxo;
 
 public class controleFluxo_Descobrindo_um_numero {
     public static void main(String[] args) {
